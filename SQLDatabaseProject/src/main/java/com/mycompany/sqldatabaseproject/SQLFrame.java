@@ -1,7 +1,8 @@
-/*SQLFrame. java, Rigen Kronaj, Informatika Viti 2, 24 Maj 2021, Projekti 3.
+/*SQLFrame. java, Informatika Viti 2, 24 Maj 2021, Projekti 3.
 Ky aplikacion sherben per te krijuar dhe edituar nje database ne MySQL.
 Me ane te nderfaqes grafike, ne mund te krijojme nje database dhe te krijojme
 tabela te ndryshme ne te.
+Punuar nga Rigen Kronaj, Lorenco Preka
 */
 
 
