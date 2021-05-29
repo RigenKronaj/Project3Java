@@ -2,7 +2,7 @@
 Ky aplikacion sherben per te krijuar dhe edituar nje database ne MySQL.
 Me ane te nderfaqes grafike, ne mund te krijojme nje database dhe te krijojme
 tabela te ndryshme ne te.
-Punuar nga Rigen Kronaj, Lorenco Preka
+Pjesetaret te grupit: Lorenco, Rigen, Andis, Erind
 */
 
 
